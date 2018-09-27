@@ -1,23 +1,22 @@
 # identify-characters-with-Julia
-[toc]
 ## 0  Preface
 ---
 相关参数说明
 
-	 - Julia: 1.0
-	 - OS: MacOS 
+	- Julia: 1.0
+	- OS: MacOS 
 
  **训练测试数据**百度云链接：[点击下载](https://pan.baidu.com/s/1dY_66pH5lMNsX4N7JHIGvg) 密码: u71o
 文件说明：
 
-	 - rf_julia_charReg
-		 - resizeData.py    #批量重设置图片尺寸
-		 - test    #测试图片文件
-		 - testResized    #resized 测试图片文件
-		 - train    #训练图片文件
-		 - trainResized    #resized 训练图片文件
-		 - sampleTest.csv    #测试数据csv文件
-		 - trainLabels.csv     #训练数据label csv文件
+	- rf_julia_charReg
+		- resizeData.py    #批量重设置图片尺寸
+		- test    #测试图片文件
+		- testResized    #resized 测试图片文件
+		- train    #训练图片文件
+		- trainResized    #resized 训练图片文件
+		- sampleTest.csv    #测试数据csv文件
+		- trainLabels.csv     #训练数据label csv文件
 
 ## 1 加载数据
 ---
