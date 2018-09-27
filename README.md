@@ -1,4 +1,4 @@
-# identify-characters-with-Julia
+# identify-characters-with-Julia(Random Forest)
 ## 0  Preface
 ---
 相关参数说明
